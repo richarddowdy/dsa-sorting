@@ -1,3 +1,5 @@
-function selectionSort() {}
+function selectionSort(arr) {
+  
+}
 
 module.exports = selectionSort;
